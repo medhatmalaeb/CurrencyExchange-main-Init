@@ -1,0 +1,9 @@
+.topCurrencies
+{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 600;
+}
